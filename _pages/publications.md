@@ -23,4 +23,4 @@ Yue Cai, <b>Zhengyu Huang</b>, Michelle H.C. Cheung, Vincent Motto-Ros, Po-Chun 
 Xiaochun Wang, <b>Zhengyu Huang</b>, Po-Chun Chu, Yue Cai, Kelvin S. Y. Leung, Judy T. S. Lum and  Nai-Ho Cheung. <b><i>Journal of Analytical Atomic Spectrometry. (2016)</i></b>
 
 <b>[Nanoscale Fingerprinting with Hyperbolic Metamaterials](https://ieeexplore.ieee.org/document/8427279)</b> <br>
-Zhengyu Huang, Evgenii Narimanov, Theodore B. Norris. <b><i>Conference on Lasers and Electro-Optics, CLEO. (2018)</i></b>
+<b>Zhengyu Huang</b>, Evgenii Narimanov, Theodore B. Norris. <b><i>Conference on Lasers and Electro-Optics, CLEO. (2018)</i></b>
