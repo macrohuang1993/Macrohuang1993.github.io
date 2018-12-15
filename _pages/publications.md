@@ -24,3 +24,13 @@ Xiaochun Wang, <b>Zhengyu Huang</b>, Po-Chun Chu, Yue Cai, Kelvin S. Y. Leung, J
 
 <b>[Nanoscale Fingerprinting with Hyperbolic Metamaterials](https://ieeexplore.ieee.org/document/8427279)</b> <br>
 <b>Zhengyu Huang</b>, Evgenii Narimanov, Theodore B. Norris. <b><i>Conference on Lasers and Electro-Optics, CLEO. (2018)</i></b>
+
+<b>[Application of trained Deep BCD-Net to iterative low-count PET image reconstruction. ]()</b> <br>
+Hongki Lim, <b>Zhengyu Huang</b>, Jeffrey Fessler, Yuni Dewaraja, Il Yong Chun. <b><i>Proc. IEEE Nuc. Sci. Symp. Med. Im. Conf., Nov. 2018. To appear.</i></b>
+
+
+<b>[Fast and convergent iterative signal recovery using trained convolutional neural networks.]()</b> <br>
+Il Yong Chun, Hongki Lim, <b>Zhengyu Huang</b>, and Jeffrey Fessler. <b><i>Proc. Allerton, Oct. 2018. To appear.</i></b>
+
+
+
