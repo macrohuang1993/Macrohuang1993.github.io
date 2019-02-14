@@ -26,7 +26,7 @@ Hongki Lim, <b>Zhengyu Huang</b>, Jeffrey Fessler, Yuni Dewaraja, Il Yong Chun. 
 Il Yong Chun, Hongki Lim, <b>Zhengyu Huang</b>, and Jeffrey Fessler. <b><i>Proc. Allerton, Oct. 2018. To appear.</i></b>
 
 <b>[Elemental Analysis of Chinese Black Inks on Xuan Paper by ArF Laser-Excited Plume Fluorescence](https://pubs.acs.org/doi/abs/10.1021/acs.analchem.6b02628)</b> <br>
-Yue Cai, <b>Zhengyu Huang</b>, Michelle H.C. Cheung, Vincent Motto-Ros, Po-Chun Chu, Yuanwei Wang, Haoyi Zhong, Ronald Yuen⊥, Kelvin S.Y. Leung, Judy T.S. Lum, Sut-Kam Ho, and Nai-Ho Cheung. <b><i>ACS Analytical Chemistry (2016)</i></b>
+Yue Cai, <b>Zhengyu Huang</b>, Michelle H.C. Cheung, Vincent Motto-Ros, Po-Chun Chu, Yuanwei Wang, Haoyi Zhong, Ronald Yuen, Kelvin S.Y. Leung, Judy T.S. Lum, Sut-Kam Ho, and Nai-Ho Cheung. <b><i>ACS Analytical Chemistry (2016)</i></b>
 
 <b>[The mechanism of ArF laser-induced fluorescence of dense plume matter](https://pubs.rsc.org/en/content/articlelanding/2016/ja/c6ja00290k#!divAbstract)</b> <br>
 Xiaochun Wang, <b>Zhengyu Huang</b>, Po-Chun Chu, Yue Cai, Kelvin S. Y. Leung, Judy T. S. Lum and  Nai-Ho Cheung. <b><i>Journal of Analytical Atomic Spectrometry. (2016)</i></b>
