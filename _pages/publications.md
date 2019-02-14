@@ -24,7 +24,7 @@ Xiaochun Wang, <b>Zhengyu Huang</b>, Po-Chun Chu, Yue Cai, Kelvin S. Y. Leung, J
 
 <b>[Nanoscale Fingerprinting with Hyperbolic Metamaterials](https://aip.scitation.org/doi/10.1063/1.5079736)</b> <br>
 <b>Zhengyu Huang</b>, Evgenii Narimanov, Theodore B. Norris. <b><i>APL Photonics. (2019)</i></b> <b>(Featured Article) 
-<br>News coverage:[[1]] (https://publishing.aip.org/publications/latest-content/hyperbolic-metamaterials-enable-nanoscale-fingerprinting/), [[2]] (https://phys.org/news/2019-02-hyperbolic-metamaterials-enable-nanoscale-fingerprinting.html)</b> <br>
+<br>News coverage:[[1]](https://publishing.aip.org/publications/latest-content/hyperbolic-metamaterials-enable-nanoscale-fingerprinting/), [[2]](https://phys.org/news/2019-02-hyperbolic-metamaterials-enable-nanoscale-fingerprinting.html)</b> <br>
 
 
 <b>[Application of trained Deep BCD-Net to iterative low-count PET image reconstruction. ]()</b> <br>
