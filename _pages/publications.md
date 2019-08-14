@@ -15,6 +15,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+<b>[Momentum-Net: Fast and convergent iterative neural network for inverse problems.](https://www.nature.com/articles/s41563-019-0404-6)</b> <br>
+Il Yong Chun, <b>Zhengyu Huang</b>, Hongki Lim, Jeffrey A. Fessler. Under review for <b><i>TPAMI</i></b>.
+
+<b>[Terahertz circular dichroism spectroscopy of biomaterials enabled by kirigami polarization modulators.](https://www.nature.com/articles/s41563-019-0404-6)</b> <br>
+Won Jin Choi, Gong Cheng, <b>Zhengyu Huang</b>, Shuai Zhang, Theodore B. Norris and Nicholas A. Kotov. <b><i>Nature Material (2019)</i></b>
+
 <b>[Nanoscale Fingerprinting with Hyperbolic Metamaterials](https://aip.scitation.org/doi/10.1063/1.5079736)</b> <br>
 <b>Zhengyu Huang</b>, Theodore B. Norris, Evgenii Narimanov. <b><i>APL Photonics (2019)</i></b> <b>(Featured Article) 
 <br>News coverage:[[1]](https://publishing.aip.org/publications/latest-content/hyperbolic-metamaterials-enable-nanoscale-fingerprinting/), [[2]](https://phys.org/news/2019-02-hyperbolic-metamaterials-enable-nanoscale-fingerprinting.html)</b> <br>
