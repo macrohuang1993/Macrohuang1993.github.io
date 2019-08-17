@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="../files/Zhengyu_Huang_Resume_2019_8_17_latex.pdf">Download File</a>
+My resume is available to download <a href="../files/Zhengyu_Huang_Resume_2019_8_17_latex.pdf">here</a>.
 
